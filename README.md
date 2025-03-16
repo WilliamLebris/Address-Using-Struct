@@ -1,0 +1,1 @@
+This is a C++ code that allow the user to input customer name and customer adress. I used struct to create customer object. For the adress, I created another data type and declared the varible in the struct Customer. I made sure that the user can't crash the code by implementing user input validation. 
